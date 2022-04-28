@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @styptl
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Python Django
-- 💞️ I’m looking to collaborate on !))!
-- 📫 How to reach me ...
+- Create a folder named "GiftShop"
+-   Download and place folders GiftShop, images, and local.
+-     Go to the GiftShop folder and place the folders GiftShop, media, static and the file manage.py parallel to each other.
+-     Create a folder "apps" (all lowercase) parallel to the rest of the folders.
+-       Download and place folders cart, core, order, product, and vendor in the folder "apps."
+      
+The final directory tree should look like:
 
-<!---
-styptl/styptl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+GiftShop -> GiftShop -----------------> apps --------------------> cart, core, order, product, vendor
+         -> images                   -> GiftShop
+                                     -> media
+                                     -> static
+                                     -> db.sqlite3
+                                     -> manage.py
+                     
