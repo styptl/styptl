@@ -1,5 +1,5 @@
 -     Create a folder named "GiftShop"
--     Download and place folders GiftShop, images, and local.
+-     Download and place folders GiftShop and images.
 -     Go to the GiftShop folder and place the folders (downloaded from this repository) GiftShop, media, static and the file manage.py parallel to each other.
 -     Create a folder "apps" (all lowercase) parallel to the rest of the folders.
 -     Download and place folders cart, core, order, product, and vendor in the folder "apps."
